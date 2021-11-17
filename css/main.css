@@ -1,0 +1,33 @@
+﻿* {
+    background-color: #A5C9F0;
+    font-family: sans-serif;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+#fav {
+    color: yellow;
+    text-align: center;
+}
+
+p {
+    margin-right: 460px;
+    margin-left: 90px;
+}
+
+ul {
+    display: inline;
+    text-align: center;
+}
+
+img {
+    position: relative;
+    float: right;
+}
+
+nav a{
+    display: block;
+    text-align: center;
+}
